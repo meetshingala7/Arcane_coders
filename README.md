@@ -1,5 +1,9 @@
 # Arcane_Coders Quickstart - Python Web app
 
+Unlock the potential of your manuscript
+
+PaperCheck is an online platform designed to increase your chances of journal acceptance through meticulous and valuable checks. Our website provides a professional and comprehensive approach to enhancing your manuscript's quality, including grammar, spelling, syntax, formatting, and style.
+
 ## Setup
 
 1. If you don’t have Python installed, [install it from here](https://www.python.org/downloads/)
