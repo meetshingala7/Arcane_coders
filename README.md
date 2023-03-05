@@ -1,7 +1,5 @@
 # Arcane_Coders Quickstart - Python Web app
 
-This is an MINed Project app using flask web framework. Check out the tutorial or follow the instructions below to get set up.
-
 ## Setup
 
 1. If you don’t have Python installed, [install it from here](https://www.python.org/downloads/)
