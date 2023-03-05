@@ -10,10 +10,6 @@ This is an MINed Project app using flask web framework. Check out the tutorial o
 
 3. Navigate into the project directory
 
-   ```bash
-   $ cd openai-quickstart-python
-   ```
-   
 4. Install the requirements
 
    ```bash
